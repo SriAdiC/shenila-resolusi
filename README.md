@@ -1,2 +1,2 @@
 # shenila-resolusi
-Repository untuk menyimpan rencana Shenila kedepannya 
+Repository untuk menyimpan rencana Shenila kedepannya nyoba nih
